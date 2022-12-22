@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import sklearn
 
 st.title('DATA BREACH ANALYSIS')
 st.subheader(" Crimnal Activity on the Internet is much broader that cybercrime as essentially all elements of human criminal activity have moved into cyberspace. Data breaches can be far more than a temporary terror — they may change the course of your life")
