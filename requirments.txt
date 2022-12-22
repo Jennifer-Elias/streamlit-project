@@ -1,8 +1,0 @@
-Requirments
->> import pandas
->> import streamlit
->> import matplotlib.pyplot
->>import seaborn
->>from sklearn.preprocessing import LabelEncoder
->>from PIL import Image
->>import plotly.express
